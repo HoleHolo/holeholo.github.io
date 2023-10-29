@@ -1,0 +1,32 @@
+lazyload:
+  enable: true
+  js: https://gcore.jsdelivr.net/npm/vanilla-lazyload@17.3.1/dist/lazyload.min.js
+  transition: blur # blur, fade
+
+loading:
+  loading: 正在加载...
+  error: 加载失败！
+
+style:
+  gradient:
+    start: 'linear-gradient(to top, #6a85b6 0%, #bac8e0 100%)'
+    search: 'linear-gradient(to top, #6a85b6 0%, #bac8e0 100%)'
+  border-radius:
+    card: 12px
+    block: 12px
+    bar: 6px
+    image: 6px
+
+inject:
+  head:
+    - <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC&display=swap" rel="stylesheet">
+  script:
+
+copycode:
+  enable: true
+  js: /js/plugins/copycode.js
+  default_text: '复制代码'
+  success_text: '复制成功'
+
+link:
+  underline: true

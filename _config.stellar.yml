@@ -7,6 +7,11 @@ loading:
   loading: 正在加载...
   error: 加载失败！
 
+inject:
+  head:
+    - <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC&display=swap" rel="stylesheet">
+  script:
+
 style:
   gradient:
     start: 'linear-gradient(to top, #6a85b6 0%, #bac8e0 100%)'
@@ -16,11 +21,8 @@ style:
     block: 12px
     bar: 6px
     image: 6px
-
-inject:
-  head:
-    - <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC&display=swap" rel="stylesheet">
-  script:
+  font-family:
+    body: '"Noto Serif SC", sans-serif'
 
 copycode:
   enable: true

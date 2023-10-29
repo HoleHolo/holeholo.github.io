@@ -3,20 +3,19 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Blog
-subtitle: ''
-description: ''
+title: 个人博客
+subtitle: '存干货的小仓库'
+description: '觉得好的内容，就放在这了...'
 keywords:
 author: HoleHolo
 language:
   - zh-CN
-  - zh-TW
   - en
 timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: http://holeholo.github.io
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -43,7 +42,7 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 highlight:
@@ -100,9 +99,19 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: stellar
+theme: one-paper
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+# Others
+inject:
+  head:
+    - <link href="https://fonts.googlefonts.cn/css?family=Noto+Serif" rel="stylesheet">
+  script:
+
+menu:
+  首页: /
+  归档: /archives

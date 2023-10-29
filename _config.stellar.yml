@@ -7,25 +7,20 @@ loading:
   loading: 正在加载...
   error: 加载失败！
 
-inject:
-  head:
-    - <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC&display=swap" rel="stylesheet">
-  script:
-
 style:
   gradient:
-    start: 'linear-gradient(to top, #6a85b6 0%, #bac8e0 100%)'
-    search: 'linear-gradient(to top, #6a85b6 0%, #bac8e0 100%)'
+    start: ''
+    search: ''
   border-radius:
     card: 12px
     block: 12px
     bar: 6px
     image: 6px
   font-family:
-    body: '"Noto Serif SC", sans-serif'
+    body: '"Noto Serif", serif'
 
 copycode:
-  enable: true
+  enable: false
   js: /js/plugins/copycode.js
   default_text: '复制代码'
   success_text: '复制成功'
@@ -33,13 +28,6 @@ copycode:
 link:
   underline: true
 
-sitemap:
-  '博客':
-    - '[近期](/)'
-    - '[分类](/categories/)'
-    - '[标签](/tags/)'
-    - '[归档](/archives/)'
-
 content: |
-  本站使用 [Stellar](https://github.com/xaoxuu/hexo-theme-stellar) 主题创建。
-  本博客所有文章除特别声明外，均采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 许可协议，转载请注明出处。
+  - 本站使用 [Stellar](https://github.com/xaoxuu/hexo-theme-stellar) 主题创建。
+  - 本博客所有文章除特别声明外，均采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 许可协议，转载请注明出处。

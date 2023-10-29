@@ -99,7 +99,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: one-paper
+theme: fluid
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
@@ -109,9 +109,5 @@ deploy:
 # Others
 inject:
   head:
-    - <link href="https://fonts.googlefonts.cn/css?family=Noto+Serif" rel="stylesheet">
+    #- <link href="https://fonts.googlefonts.cn/css?family=Noto+Serif" rel="stylesheet">
   script:
-
-menu:
-  首页: /
-  归档: /archives

@@ -328,7 +328,7 @@ public class VarTest {
 
 这里可参阅书本的截图，只用会十进制与二进制的相互转换，剩下的了解即可。
 
-​![image](/images/image-20230819154612-uh3ns4a.png)​​![image](/images/image-20230819154656-gfhbwuy.png)​​![image](/images/image-20230819154732-9dk1jme.png)​​![image](/images/image-20230819154808-x8j54wa.png)​​![image](/images/image-20230819154838-bj37k6x.png)​
+​![image](images/image-20230819154612-uh3ns4a.png)​​![image](images/image-20230819154656-gfhbwuy.png)​​![image](images/image-20230819154732-9dk1jme.png)​​![image](images/image-20230819154808-x8j54wa.png)​​![image](images/image-20230819154838-bj37k6x.png)​
 
 ### 浮点数常量
 
@@ -423,67 +423,67 @@ final 常量类型 常量名 [=初始值];
 
 ### 类型及用法
 
-​![image](/images/image-20230819164448-njol5j5.png)​​![image](/images/image-20230819164528-ivtmwb6.png)​
+​![image](images/image-20230819164448-njol5j5.png)​​![image](images/image-20230819164528-ivtmwb6.png)​
 
 ### 特殊赋值运算符的自动强制类型转换
 
-​![image](/images/image-20230819165110-bwbjt2y.png)​​![image](/images/image-20230819165141-500ju4t.png)​
+​![image](images/image-20230819165110-bwbjt2y.png)​​![image](images/image-20230819165141-500ju4t.png)​
 
 ## 比较运算符
 
 ### 类型介绍及用法
 
-​![image](/images/image-20230819165259-vl84pyi.png)​
+​![image](images/image-20230819165259-vl84pyi.png)​
 
 ### 易混用法
 
-​![image](/images/image-20230819165447-m6cu0ay.png)​
+​![image](images/image-20230819165447-m6cu0ay.png)​
 
 ## 逻辑运算符
 
 ### 类型介绍及用法
 
-​![image](/images/image-20230819165641-7sg1ap5.png)​​​![image](/images/image-20230819165838-uip2095.png)​​![image](/images/image-20230819165903-12kyoa3.png)​​![image](/images/image-20230819165936-t22xa0q.png)​​
+​![image](images/image-20230819165641-7sg1ap5.png)​​​![image](images/image-20230819165838-uip2095.png)​​![image](images/image-20230819165903-12kyoa3.png)​​![image](images/image-20230819165936-t22xa0q.png)​​
 
 ### 细节用法
 
-​![image](/images/image-20230819171609-9262rjk.png)​
+​![image](images/image-20230819171609-9262rjk.png)​
 
-​![image](/images/image-20230819171634-m06n2ny.png)​
+​![image](images/image-20230819171634-m06n2ny.png)​
 
-​![image](/images/image-20230819171709-3pjq2qb.png)​
+​![image](images/image-20230819171709-3pjq2qb.png)​
 
-​![image](/images/image-20230819171731-5ji15i8.png)​
+​![image](images/image-20230819171731-5ji15i8.png)​
 
 ## 位运算符
 
 ### 意义及用法
 
-​![image](/images/image-20230819171841-phg79kk.png)​
+​![image](images/image-20230819171841-phg79kk.png)​
 
-​![image](/images/image-20230819171915-3fip6dl.png)​
+​![image](images/image-20230819171915-3fip6dl.png)​
 
 ### 解释说明
 
-​![image](/images/image-20230819172548-1pvv3hk.png)​
+​![image](images/image-20230819172548-1pvv3hk.png)​
 
-​![image](/images/image-20230819172605-j98f00s.png)​
+​![image](images/image-20230819172605-j98f00s.png)​
 
-​![image](/images/image-20230819172627-smai0b1.png)​
+​![image](images/image-20230819172627-smai0b1.png)​
 
-​![image](/images/image-20230819172647-zbc5wyp.png)​
+​![image](images/image-20230819172647-zbc5wyp.png)​
 
 ## 条件运算符
 
-​![image](/images/image-20230819172745-a68mx8c.png)​
+​![image](images/image-20230819172745-a68mx8c.png)​
 
-​![image](/images/image-20230819172808-2bhm9lc.png)​
+​![image](images/image-20230819172808-2bhm9lc.png)​
 
 ## 运算符的优先级
 
-​![image](/images/image-20230819172853-hq2jn9b.png)​
+​![image](images/image-20230819172853-hq2jn9b.png)​
 
-​![image](/images/image-20230819172910-u7mnscr.png)​
+​![image](images/image-20230819172910-u7mnscr.png)​
 
 # 选择结构语句
 
@@ -569,7 +569,7 @@ for (初始化表达式;循环条件;操作表达式) {
 }
 ```
 
-​![image](/images/image-20230902164111-j4dajxh.png)​
+​![image](images/image-20230902164111-j4dajxh.png)​
 
 # 跳转语句
 
@@ -593,13 +593,13 @@ for (初始化表达式;循环条件;操作表达式) {
 数组类型[] 数组名 ={元素 1,元素 2,...,数组 n};
 ```
 
-​![image](/images/image-20230902170118-6klpe25.png)​
+​![image](images/image-20230902170118-6klpe25.png)​
 
 ## 使用数组
 
 ### 引用元素
 
-​![image](/images/image-20230902170205-c5722aq.png)​
+​![image](images/image-20230902170205-c5722aq.png)​
 
 使用  `数组名[索引]`​ 表示数组中的元素。需要注意的是一个长度为 100 个元素的数组索引范围为 `0 ~ 99`​。
 
@@ -621,18 +621,18 @@ for (int i=1; i < 数组名.length; i++) {
 
 ### 数组最值
 
-​![image](/images/image-20230902170858-sivoxu1.png)​
+​![image](images/image-20230902170858-sivoxu1.png)​
 
 ### 数组排序
 
-​![image](/images/image-20230902171050-twwkpk0.png)​
+​![image](images/image-20230902171050-twwkpk0.png)​
 
-​![image](/images/image-20230902171113-cq93jss.png)​​
+​![image](images/image-20230902171113-cq93jss.png)​​
 
-![image](/images/image-20230902171135-mrts8ub.png)​
+![image](images/image-20230902171135-mrts8ub.png)​
 
 ## 多维数组
 
-​![image](/images/image-20230902171634-kjvwdgy.png)​​![image](/images/image-20230902171659-5gxo0nr.png)​
+​![image](images/image-20230902171634-kjvwdgy.png)​​![image](images/image-20230902171659-5gxo0nr.png)​
 
 ‍

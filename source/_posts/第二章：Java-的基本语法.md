@@ -2,6 +2,7 @@
 title: 第二章：Java 的基本语法
 date: 2023-10-29 12:59:30
 tags: Java 学习笔记
+math: true
 ---
 # 包名
 

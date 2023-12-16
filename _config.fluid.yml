@@ -528,7 +528,7 @@ index:
 # Post Page
 #---------------------------
 post:
-  banner_img: https://www.todaybing.com/api/today/cn
+  banner_img: https://t.mwm.moe/fj
   banner_img_height: 70
   banner_mask_alpha: 0.3
 

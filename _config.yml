@@ -109,5 +109,4 @@ deploy:
 # Others
 inject:
   head:
-    - <link href="https://fonts.googlefonts.cn/css?family=Noto+Serif" rel="stylesheet">
   script:
